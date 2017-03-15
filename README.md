@@ -44,7 +44,7 @@ At its simplest, a Slack message just has the parameter `text`, so the JSON woul
 {"text": "This is the message to be sent."}
 ```
 ##### Links
-can be added in the form `<URL|Hyperlinked Text>`. So if you'd like to send [Open Google!](https://www.google.com]):
+can be added in the form `<URL|Hyperlinked Text>`. So if you'd like to send [Open Google!](https://www.google.com):
 ```json
 {"text": "<https://www.google.com|Open Google!>"}
 ```
