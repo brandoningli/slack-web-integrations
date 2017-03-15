@@ -17,7 +17,7 @@
 
   */
 
-require {REDACTED}.php
+require {REDACTED}.php;
 
 /* Format of a basic Text message */
 function format_msg($msg){
