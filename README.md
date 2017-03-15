@@ -76,7 +76,7 @@ can be changed by adding the `channel`, `Username`, and `icon_emoji` parameters.
   "channel": "#runners",
   "link_names": 1,
   "username": "Forrest",
-  "icon_emoji": ":fried_shrinp:"
+  "icon_emoji": ":fried_shrimp:"
 }
 ```
 
