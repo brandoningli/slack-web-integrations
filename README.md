@@ -192,8 +192,5 @@ To change the message type, simply include the `response_type` parameter in your
 }
 ```
 
-### Example
-Take a look at [this PHP Script](slashcommand_ex.php) to see a slash command in action.
-
 # Disclaimer
 This guide and these examples are not affiliated with Slack.
